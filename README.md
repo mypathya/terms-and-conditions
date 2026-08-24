@@ -85,6 +85,6 @@ These Terms shall be governed by and construed in accordance with applicable law
 ### 12. Contact Information
 For questions, support, privacy inquiries, or account deletion requests, please contact:
 
-**Developer Name:** Purab  
+**Developer Name:** Aparna Tengse  
 **Email:** hello.pathya@gmail.com  
 **Website/Terms Link:** https://mypathya.github.io/terms-and-conditions/
