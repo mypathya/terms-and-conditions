@@ -17,12 +17,12 @@ Using our Services in any manner, indicating your agreement from that point onwa
 “Devices”: Refer to any electronic device used to access our proprietary software.
 “Personal Data”: Information relating to an identifiable individual.
 5. Rights and Responsibilities
-5.1. Customer Obligations
-You are solely responsible for obtaining all necessary consents and ensuring compliance with all applicable laws.
-You shall not use the Services for any unlawful activities and shall indemnify PathyaAI for any damages resulting from such actions.
-5.2. Company Rights
-PathyaAI reserves the right to access, monitor, and review your use of the Services to ensure compliance with these Terms.
-PathyaAI may, at its sole discretion, suspend or terminate your access to the Services without notice in cases of suspected violation of these Terms.
+  5.1. Customer Obligations
+        You are solely responsible for obtaining all necessary consents and ensuring compliance with all applicable laws.
+        You shall not use the Services for any unlawful activities and shall indemnify PathyaAI for any damages resulting from such actions.
+  5.2. Company Rights
+        PathyaAI reserves the right to access, monitor, and review your use of the Services to ensure compliance with these Terms.
+        PathyaAI may, at its sole discretion, suspend or terminate your access to the Services without notice in cases of suspected violation of these Terms.
 6. Use of Services
 You acknowledge and agree that:
 
