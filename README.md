@@ -10,7 +10,7 @@
 ### 1. Introduction & Developer Identity
 Welcome to **Pathya** (“the App”, “Service”, or “We”). Pathya is developed, owned, and operated by **Aparna Tengse**, an individual developer. 
 
-By downloading, accessing, or using Pathya, you (“User” or “You”) agree to be bound by these Terms and Conditions (“Terms”). These Terms form a legally binding agreement between you and Purab. If you do not agree to these Terms, do not use the App.
+By downloading, accessing, or using Pathya, you (“User” or “You”) agree to be bound by these Terms and Conditions (“Terms”). These Terms form a legally binding agreement between you and Aparna Tengse. If you do not agree to these Terms, do not use the App.
 
 ---
 
