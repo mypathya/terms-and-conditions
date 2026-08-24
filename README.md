@@ -1,74 +1,90 @@
-Terms and Conditions
-Last updated: July 10, 2026
+# Terms and Conditions
 
-1. Introduction
-Welcome to PathyaAI (“PathyaAI” or “We” or “Us” or “Our”). By accessing or using our services (the “Services”), including our software, applications, devices, and website, you (“You” or “Your” or “Customer”) agree to comply with and be bound by these Terms and Conditions (“Terms”). These Terms form a legally binding agreement between you and PathyaAI Inc.
+**Last Updated:** August 2026  
+**Developer:** Aparna Tengse (Individual Developer)  
+**App Name:** PathyaAI  
+**Contact:** hello.pathya@gmail.com  
 
-2. Modification of Terms
-PathyaAI reserves the exclusive right to modify, amend, or update these Terms at any time. Any revisions will supersede previous versions and become effective immediately upon posting on our website. Your continued use of the Services signifies your acceptance of the revised Terms.
+---
 
-3. Acceptance of Terms
-You must accept these Terms to use our Services. You can express acceptance by:
-Clicking “Accept” or “Agree” when presented with these options.
-Using our Services in any manner, indicating your agreement from that point onwards.
+### 1. Introduction & Developer Identity
+Welcome to **PathyaAI** (“the App”, “Service”, or “We”). PathyaAI is developed, owned, and operated by **Purab**, an individual developer. 
 
-4. Definitions
-“Data”: Includes all data, information, and materials submitted through our Services.
-“Devices”: Refer to any electronic device used to access our proprietary software.
-“Personal Data”: Information relating to an identifiable individual.
+By downloading, accessing, or using PathyaAI, you (“User” or “You”) agree to be bound by these Terms and Conditions (“Terms”). These Terms form a legally binding agreement between you and Purab. If you do not agree to these Terms, do not use the App.
 
-5. Rights and Responsibilities
-   
-  5.1. Customer Obligations
-        You are solely responsible for obtaining all necessary consents and ensuring compliance with all applicable laws.
-        You shall not use the Services for any unlawful activities and shall indemnify PathyaAI for any damages resulting from such actions.
-        
-  5.2. Company Rights
-        PathyaAI reserves the right to access, monitor, and review your use of the Services to ensure compliance with these Terms.
-        PathyaAI may, at its sole discretion, suspend or terminate your access to the Services without notice in cases of suspected violation of these Terms.
-   
-6. Use of Services
-You acknowledge and agree that:
-PathyaAI grants you a limited, non-exclusive, non-transferable license to use the Services.
-Unauthorized use or alteration of the Services is strictly prohibited and may result in civil and/or criminal penalties.
-PathyaAI helps users connect with healthcare professionals and securely share health data. The app does not provide medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional for medical concerns.
+---
 
-  6.1 Consent Statement for Access Key Use
-  By using an access key or password provided by your hospital or healthcare team to log into this application, you confirm that:
-  You have been authorized by your healthcare provider to access this service.
-  You understand and agree that the use of this access key constitutes your informed consent to the collection, use, and processing of your personal health information as outlined in this app’s Privacy Policy and Terms of Use.
-  You acknowledge that this consent may be withdrawn at any time by discontinuing use of the app and informing your healthcare provider.
+### 2. MEDICAL & HEALTHCARE DISCLAIMER (CRITICAL NOTICE)
+**PATHYAAI DOES NOT PROVIDE MEDICAL ADVICE, MEDICAL DIAGNOSIS, OR MEDICAL TREATMENT.**
 
-7. Payment Terms
-Invoices: Payment for Services must be made in accordance with the agreed terms and any failure to pay may result in service suspension.
-Late Fees: Balances remaining unpaid past the due date are subject to a late fee of 1.5% per month.
+1. **Informational Purpose Only:** All content, data, insights, AI-generated outputs, and features provided through PathyaAI are for general informational, educational, and wellness tracking purposes only.
+2. **Not a Doctor-Patient Relationship:** Use of PathyaAI does not establish a doctor-patient or healthcare provider relationship. The App is not a substitute for professional medical advice, diagnosis, or treatment.
+3. **Consult a Professional:** Always seek the advice of a qualified physician or other licensed healthcare professional regarding any medical condition, diet, or health objective. Never disregard professional medical advice or delay seeking it because of something you read or accessed on PathyaAI.
+4. **Emergency Situations:** IF YOU ARE EXPERIENCING A MEDICAL EMERGENCY, CALL YOUR LOCAL EMERGENCY SERVICES IMMEDIATELY.
 
-8. Data and Privacy
-Data Handling: All data submitted by you must be de-identified before submission to PathyaAI. You are responsible for ensuring compliance with applicable privacy laws.
-Confidentiality: You shall maintain the confidentiality of all proprietary information obtained through the use of our Services.
+---
 
-9. Intellectual Property
-All intellectual property associated with the Services is owned by PathyaAI. No ownership rights are transferred to you. You may not reverse-engineer or disassemble any of our proprietary software or devices.
+### 3. Modifications to Terms
+Purab reserves the right to modify, amend, or update these Terms at any time. Any changes will become effective immediately upon posting the revised Terms to this page with an updated "Last Updated" date. Your continued use of PathyaAI constitutes acceptance of the revised Terms.
 
-10. Limitation of Liability
-In no event shall PathyaAI be liable for indirect, incidental, or consequential damages, including but not limited to loss of profits, data, or use.
+---
 
-11. Indemnification
-You agree to indemnify and hold PathyaAI harmless from any claims, losses, liabilities, damages, costs, or expenses (including attorneys’ fees) arising from your breach of these Terms or your misuse of the Services.
+### 4. Account Access Keys & Healthcare Provider Authorization
+If you access PathyaAI using an access key, hospital code, or credentials provided by a hospital, clinic, or healthcare team:
+* **Authorization:** You confirm that you have been explicitly authorized by your healthcare provider to access this Service.
+* **Consent to Data Processing:** You acknowledge and agree that using an access key constitutes your informed consent to the collection, processing, and secure transmission of your data as outlined in our [Privacy Policy].
+* **Revocation:** You may withdraw this consent at any time by uninstalling the App, discontinuing its use, and notifying your healthcare provider.
 
-12. Warranty Disclaimer
-The Services are provided on an “as-is” and “as-available” basis. PathyaAI disclaims all warranties of any kind, whether express or implied.
+---
 
-13. Governing Law
-These Terms are governed by and construed in accordance with the laws applicable to PathyaAI’s place of operation.
+### 5. Account Deletion & User Rights
+In compliance with Apple App Store and Google Play Developer Policies:
+* If account creation or access key registration is utilized within PathyaAI, you reserve the right to request full account and associated personal data deletion at any time.
+* You may initiate account deletion directly within the App settings or by sending an explicit account deletion request to **hello.pathya@gmail.com**.
 
-14. Dispute Resolution
-Any disputes arising from these Terms shall be resolved through mediation first, and if necessary, through arbitration under the relevant regional laws.
-5. Miscellaneous
-Entire Agreement: These Terms constitute the entire agreement between you and PathyaAI.
-Severability: If any provision is deemed invalid, the remaining provisions shall continue in full force and effect.
-Notices: All communications should be directed to hello.pathya@gmail.com.
+---
 
-By continuing to use our Services, you confirm your acceptance of these Terms.
+### 6. Acceptable Use & User Obligations
+You agree **not** to:
+* Use PathyaAI for any unlawful purpose or in violation of any local, national, or international regulations.
+* Attempt to reverse-engineer, decompile, disassemble, or extract source code from PathyaAI.
+* Submit false, misleading, abusive, or malicious data through the App.
+* Interfere with or disrupt the security or performance of PathyaAI.
 
-Thank You for Choosing PathyaAI.
+Purab reserves the right to suspend or terminate your access to PathyaAI immediately and without prior notice if you violate any provision of these Terms.
+
+---
+
+### 7. Intellectual Property Rights
+All software, design, logos, AI models, graphics, and content associated with PathyaAI are the exclusive intellectual property of **Purab**. You are granted a limited, non-exclusive, non-transferable, revocable license to use PathyaAI strictly for personal, non-commercial purposes on permitted devices.
+
+---
+
+### 8. Subscriptions and Payments (If Applicable)
+If PathyaAI offers optional paid features, in-app purchases (IAP), or subscriptions:
+* Payments will be billed and processed via your Apple ID or Google Play Store Account upon confirmation of purchase.
+* Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current billing period in your App Store / Google Play account settings.
+
+---
+
+### 9. Limitation of Liability
+To the maximum extent permitted by applicable law, **Purab** shall not be liable for any indirect, incidental, consequential, special, or punitive damages (including loss of data, loss of health records, or business disruption) arising out of or in connection with your use of or inability to use PathyaAI.
+
+---
+
+### 10. Disclaimer of Warranties
+PathyaAI is provided on an **“AS IS”** and **“AS AVAILABLE”** basis without warranties of any kind, whether express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+---
+
+### 11. Governing Law & Dispute Resolution
+These Terms shall be governed by and construed in accordance with applicable laws. Any dispute arising from or relating to these Terms shall first be attempted to be resolved informally by contacting **hello.pathya@gmail.com**.
+
+---
+
+### 12. Contact Information
+For questions, support, privacy inquiries, or account deletion requests, please contact:
+
+**Developer Name:** Purab  
+**Email:** hello.pathya@gmail.com  
+**Website/Terms Link:** https://mypathya.github.io/terms-and-conditions/
